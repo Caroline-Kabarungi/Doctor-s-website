@@ -1,0 +1,247 @@
+.yourpet{
+    display: flex;
+     }
+     .logo{
+         font-size:30px ;
+         padding: 10px;
+         margin: 10px;
+         padding-top: -20%;
+     }
+     .logo p{
+margin-top: -40px;
+     }
+.body{
+}
+.nav li{
+    list-style: disc;
+    display: inline;
+    text-decoration: none;
+    padding: 30px;
+}
+
+nav{
+    text-align: right;
+    font-size: 20px;
+    text-decoration: none;
+}
+.head p{
+    color: orange;
+    margin-left: 9px;
+    padding-left: px20;
+    
+}
+.btn{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+}
+.btn p {
+    padding-left: 250px;
+    margin-right: 200px;
+    display:inline-flex;
+}
+head h1{
+    font-size: 50px;
+    font-style: oblique;
+    color: black;
+}
+
+head h2{
+    font-size: 20px;
+    font-style: italic;
+    color: black;
+
+}
+.img-box{
+    position: absolute;
+    border-radius: 50%;
+    border:45px solid  rgb(183, 232, 245);
+    margin-left: 60%;
+    margin-top: 10px;
+    height: 37%;
+    width: 30%;
+}
+.page2{
+    display: inline-flex;
+    background-color: rgb(203, 243, 230);
+}
+ .assi{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+.ambulance{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+.service{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+
+.oparation{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+.parturiation{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+.pet{
+    margin: 25px;
+    padding: 60px;
+    background-color: white;
+}
+.page3{
+    display: inline-flex;
+background-color: rgb(203, 243, 230); 
+ }
+.best{
+    padding-left: 100px;
+    margin: 80px;
+    background-color: azure;
+    height:224px;
+    width:400px;
+    margin-left: 20px;
+  }
+
+.but{
+    margin-bottom: 400px;
+    padding-bottom: 50px;
+     display: inline;
+    
+    
+    
+    }
+.image{
+    margin: left 60px; 
+    padding:top 30px;
+}
+.thirdsec{
+    display: inline-flex;
+    margin-left: 2px;
+}
+.what {
+    margin: 30px;
+    padding: 80px;
+   display: inline-flex;
+   /* background-color: azure; */
+}
+.what p{
+    padding-left: 400px;
+    /* background-color: azure; */
+}
+.besidewhat{
+    margin-left: 600px;
+    scroll-padding: 50px;
+    margin-bottom: 100%;
+    scroll-padding-top: 80px;
+}
+.Experienced{
+    margin: 40px;
+    background-color: rgb(203, 243, 230);
+}
+.both{  
+    background-color: rgb(203, 243, 230);
+    margin: 40px;
+    padding-left: 400px;
+}
+.words{
+    display: inline-flex;
+}
+.page4{
+    display: inline-flex;
+    background-color: azure; 
+    height: 300px; 
+}
+.quality{
+    padding: 50px;
+    background-color: azure;
+    height: 300px;
+    }
+    .quality.images{
+        background-color: azure;
+
+    }
+.page5.images{
+    
+        margin: 30px;
+        padding: 80px;
+       display: inline-flex;
+       background-color: azure;
+}
+.mainfooter{
+    display:inline-flex;
+    padding: 50px;
+    background-color: azure;
+        
+}
+
+.subfut1{
+    padding: 100px;
+
+}
+
+.subfut2{
+    padding: 100px;
+    
+}
+
+.subfut3{
+    padding: 100px;
+    
+}
+
+
+.subfut4{
+    padding: 100px;
+    
+}
+.page6{ 
+padding:40px;
+margin:80px;
+height: 240px;
+width:800px;
+background-color: rgb(126, 175, 159);
+border-radius: 26px;
+font-size:36px;
+margin-left: 12%;
+text-align:center;
+
+}
+.Subscribe{  
+font: size 20px;
+background-color: rgb(59, 172, 172);
+display:flex;
+height :32px;
+width: 60px;
+margin-left: 30%;
+}
+.text{
+    height: 20px;
+    margin-left: 45px;
+}
+.images{
+    display: flex;
+}
+.neil{
+    padding: 40px;
+}
+.neil1{
+    padding: 40px;
+}
+.neil2{
+    padding: 40px;
+}
+
+
+
+
+
+    
+
+    
