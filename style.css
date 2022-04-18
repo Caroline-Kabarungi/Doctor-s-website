@@ -27,9 +27,13 @@ nav{
 .head p{
     color: orange;
     margin-left: 9px;
-    padding-left: px20;
+    padding-left:20px;
+    }
+    .head button{
+        color:white;
+        background-color: rgb(0, 204, 255);
+    }
     
-}
 .btn{
     padding: 20px;
     margin: 20px;
@@ -70,21 +74,37 @@ head h2{
     padding: 60px;
     background-color: white;
 }
+
+    
+
 .ambulance{
     margin: 25px;
     padding: 60px;
     background-color: white;
 }
+
+
 .service{
     margin: 25px;
     padding: 60px;
     background-color: white;
 }
+.page2 i{
+    color:rgb(54, 238, 238);
+    
+
+}
+
 
 .oparation{
     margin: 25px;
     padding: 60px;
     background-color: white;
+}
+.page3 i{
+    color:rgb(54, 238, 238);
+    
+
 }
 .parturiation{
     margin: 25px;
@@ -99,6 +119,7 @@ head h2{
 .page3{
     display: inline-flex;
 background-color: rgb(203, 243, 230); 
+padding-left: 15px;
  }
 .best{
     padding-left: 100px;
@@ -142,16 +163,44 @@ background-color: rgb(203, 243, 230);
     scroll-padding-top: 80px;
 }
 .Experienced{
-    margin: 40px;
-    background-color: rgb(203, 243, 230);
+    margin-left: 30px;
+    margin-top: 25px;
+    /* background-color: rgb(203, 243, 230); */
+    padding-left: 9px;
 }
+.Experienced p{
+    color: rgb(165, 143, 185);   
+}
+.Experienced i2{
+    color:rgb(119, 230, 230);
+    size:60px;
+}
+.Experienced i{
+  color:orange
+}
+
 .both{  
-    background-color: rgb(203, 243, 230);
-    margin: 40px;
-    padding-left: 400px;
-}
+    /* background-color: rgb(203, 243, 230); */
+    margin: 30px;
+    padding-left: 200px;
+    }
+    .both i2{
+        color:rgb(157, 231, 231);
+        size: 60px;
+    }
+    .both h2{
+       font: size 2%;
+    }
+    .both p{
+        color: rgb(165, 143, 185);
+    }
+    .both i{
+        color:orange;
+    }
 .words{
     display: inline-flex;
+    background-color:white;
+    border-width: 30px;
 }
 .page4{
     display: inline-flex;
@@ -159,7 +208,7 @@ background-color: rgb(203, 243, 230);
     height: 300px; 
 }
 .quality{
-    padding: 50px;
+    padding-left: 50px;
     background-color: azure;
     height: 300px;
     }
@@ -206,7 +255,7 @@ padding:40px;
 margin:80px;
 height: 240px;
 width:800px;
-background-color: rgb(126, 175, 159);
+background-color:azure;
 border-radius: 26px;
 font-size:36px;
 margin-left: 12%;
@@ -220,10 +269,13 @@ display:flex;
 height :32px;
 width: 60px;
 margin-left: 30%;
+
 }
 .text{
     height: 20px;
     margin-left: 45px;
+    padding: 32px;
+    width: 20px;
 }
 .images{
     display: flex;
@@ -237,6 +289,32 @@ margin-left: 30%;
 .neil2{
     padding: 40px;
 }
+.quality p{
+    margin: left;
+    padding-left: 90%;
+    color:rgb(0, 183, 255);
+}
+.both h2{
+    padding-left: 13%;
+    color:rgb(0, 183, 255);
+    font-size :15px;
+    margin-top: -8px;
+
+}
+.subfut1 i{
+    color:blue;
+}
+.subfut1 ia{
+    color:rgb(0, 204, 255);
+}
+.subfut1 ib{
+    color:red;
+}
+.subfut1 ic{
+    color:rgb(0, 81, 255);
+}
+
+
 
 
 
