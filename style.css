@@ -8,15 +8,13 @@
          padding-top: -20%;
      }
      .logo p{
-margin-top: -40px;
+      margin-top: -40px;
      }
-.body{
-}
-.nav li{
-    list-style: disc;
-    display: inline;
-    text-decoration: none;
-    padding: 30px;
+   .nav li{
+      list-style: disc;
+      display: inline;
+      text-decoration: none;
+      padding: 30px;
 }
 
 nav{
@@ -31,8 +29,12 @@ nav{
     }
     .head button{
         color:white;
-        background-color: rgb(0, 204, 255);
+        background-color: rgb(57, 199, 235);
         border-radius: 25px;
+        border: 2px;
+    }
+    .head i{
+        color:rgb(57, 188, 218);
     }
     
 .btn{
@@ -92,9 +94,11 @@ head h2{
 }
 .page2 i{
     color:rgb(54, 238, 238);
-    
-
-}
+    }
+    .page3{
+        display: inline-flex;
+        background-color: rgb(203, 243, 230);   
+    }
 
 
 .oparation{
@@ -123,7 +127,7 @@ background-color: rgb(203, 243, 230);
 padding-left: 15px;
  }
 .best{
-    padding-left: 100px;
+    padding-left: 300px;
     margin: 80px;
     background-color: azure;
     height:224px;
@@ -132,6 +136,10 @@ padding-left: 15px;
   }
   .best button{
       border-radius: 20px;
+      border: 2px;
+      background-color:rgb(24, 187, 187);
+      font: size 15px;
+      
 
  }
 
@@ -151,16 +159,18 @@ padding-left: 15px;
     display: inline-flex;
     margin-left: 2px;
 }
+.thirdsec.images{
+    padding-left:30%;
+    margin-left:30px;
+}
 .what {
     margin: 30px;
     padding: 80px;
    display: inline-flex;
-   /* background-color: azure; */
-}
+   }
 .what p{
     padding-left: 400px;
-    /* background-color: azure; */
-}
+    }
 .besidewhat{
     margin-left: 600px;
     scroll-padding: 50px;
@@ -170,7 +180,6 @@ padding-left: 15px;
 .Experienced{
     margin-left: 30px;
     margin-top: 25px;
-    /* background-color: rgb(203, 243, 230); */
     padding-left: 9px;
 }
 .Experienced p{
@@ -185,7 +194,7 @@ padding-left: 15px;
 }
 
 .both{  
-    /* background-color: rgb(203, 243, 230); */
+    
     margin: 30px;
     padding-left: 200px;
     }
@@ -260,31 +269,45 @@ padding:40px;
 margin:80px;
 height: 240px;
 width:800px;
-background-color:azure;
+background-color:rgb(171, 239, 248);
 border-radius: 26px;
 font-size:36px;
 margin-left: 12%;
 text-align:center;
 
 }
-.Subscribe{  
-font: size 20px;
-background-color: rgb(59, 172, 172);
-display:flex;
-height :32px;
-width: 60px;
-margin-left: 30%;
 
-}
-.Subscribe input{
-    border-radius:65px;
-}
-.text{
-    height: 20px;
-    margin-left: 45px;
-    padding: 32px;
-    width: 20px;
-}
+.Subscribe{
+    margin-bottom: 40px;
+    padding-top: 50px;
+    background-color: white;
+    text-align: center;
+    padding: left 20px; 
+    border-radius: 2px;
+    border: 2px;
+    height: 1;
+    }
+   .Subscribe button{
+   padding: 20px;
+   background-color: rgb(99, 190, 190);
+   border-radius: 15px;
+   border:2px;  
+   margin-left: 300px;
+   height: 5px;
+   padding-top: 40px;
+   margin-bottom: 20px;
+   font-size: 15px;
+   }
+   .Subscribe input{
+       padding: 15px;
+       color: white;
+       background-color:white;
+       border-radius: 70px;
+       border:2px;  
+       margin-bottom: 8px;
+       font-size: 15px;
+   }
+
 .images{
     display: flex;
 }
@@ -301,6 +324,10 @@ margin-left: 30%;
     margin: left;
     padding-left: 90%;
     color:rgb(0, 183, 255);
+}
+.quality h1{
+    
+    padding-top: 30px;
 }
 .both h2{
     padding-left: 13%;
